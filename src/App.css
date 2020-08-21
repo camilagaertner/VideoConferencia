@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 8vmin;
+  pointer-events: none;
+}
+
+.App-logo2 {
+  height: 8vmin;
+  pointer-events: none;
+}
+
+.botao{
+  width: 500px;
+  height: 50px;
+  font-size: 25px;
+  background-color: #3AB1A2;
+  color: white;
+  border-radius: 10px;
+}
+
+.Text {
+  background-color: #A82C86);
+}
+
+.App-header {
+  background-color: #A82C86);
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #A82C86;
+  padding: 0px 10px 50px;
+}
+
+.Jumbotron {
+  min-height: 50vh;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 20px 30px 50px 50px;
+}
+
+.Alert {
+ left: 25px;
+  color: #5f817d;
+  width: 190px;
+  height: 40px;
+  background-color: #49dbc869;
+  border-radius: 50px;
+  font-size: 30px
+}
+
+.box{
+  width: 55px;
+  height: 55px;
+  background-color: #3AB1A2;
+  border-radius: 100px;
+}
+
+.box2{
+  width: 55px;
+  height: 55px;
+  background-color: #A82C86;
+  border-radius: 100px;
+}
+
+.box3{
+  width: 55px;
+  height: 55px;
+  background-color: #A82C86;
+  border-radius: 100px;
+}
+
+h2 {
+  color: white;
+}
+
+.letra {
+  padding: 65px 0px 0px 10px;
+  font-size: 23px;
+}
+
+.letra2 {
+  padding: 30px 5px 0px 0px;
+  font-size: 22px;
+}
+
+.termos {
+  padding: 0px 2px 0px 0px;
+  font-size: 23px;
+}
+
+.App-link {
+  color: #3AB1A2;
+  padding: 0px 10px 15px;
+}
+
+.simplificado{
+  font-size: 20px;
+  color: #3AB1A2;
+  padding: 15px 0px 0px 0px;
+}
+
+.Fonte {
+  padding: 0px 10px 10px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+ 
+}
